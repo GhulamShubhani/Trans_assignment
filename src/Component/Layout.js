@@ -18,7 +18,7 @@ const Layout = ({ children,isName=false,name='' }) => {
       </Helmet>
       <CssBaseline />
       <Header isName={isName} name={name} />
-      <Box sx={{px:{sm:2}}}>
+      <Box sx={{px:2,}}>
         {children}
       </Box>
     </>

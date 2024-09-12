@@ -70,9 +70,9 @@ const handleClickProject = ()=>{
 
     
       <Box sx={{
-        mt:{xs:"80%",sm:"5%",md:"0"},
+        my:{xs:"10%",sm:"10%",md:"10"},
         display: 'flex',
-        height:{lg:"75vh"},
+        // height:{lg:"75vh"},
         // flexDirection:"column",
         justifyContent: 'center',
         alignItems: 'center',

@@ -12,7 +12,7 @@ const Header = ({ isName = false, name }) => {
     <>
       <Box
         sx={{
-          width: "500px",
+          // width: "500px",
           ml: "5%",
           mt: "5%",
           display: "flex",

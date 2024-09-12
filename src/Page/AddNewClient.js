@@ -54,13 +54,13 @@ const handleClickDiscard = ()=>{
     <>
      <Box
       sx={{
-        minHeight: "100vh",
+        // minHeight: "100vh",
         // background: "linear-gradient(to bottom, #e0e7ff, #f8fafc)",
         display: "flex",
         flexDirection: "column",
         justifyContent: "center",
         alignItems: "center",
-        padding: "20px",
+        // padding: "20px",
       }}
     >
     <TopImage img={newClient} />
