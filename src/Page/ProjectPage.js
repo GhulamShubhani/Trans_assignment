@@ -359,7 +359,7 @@ const ProjectsPage = () => {
         alignItems="center"
         sx={{ py: 3, borderBottom: "1px solid #E0E7FF" }}
       >
-        <Grid item xs={3}>
+        <Grid item xs={2}>
           <Typography variant="h6" sx={{ textAlign: "center" }}>
             Project
           </Typography>
@@ -377,7 +377,7 @@ const ProjectsPage = () => {
             Progress
           </Typography>
         </Grid>
-        <Grid item xs={3}>
+        <Grid item xs={4}>
           <Typography variant="body2" sx={{ textAlign: "center" }}>
             Translation
           </Typography>
